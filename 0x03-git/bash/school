@@ -1,1 +1,2 @@
-#!/bin/nashs
+#!/bin/bash
+echo "School"
